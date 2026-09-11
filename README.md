@@ -62,70 +62,70 @@ The table below presents commercial and hosted cloud platforms for interactive d
 
 Open-source infrastructure is the foundational bedrock of scientific research and supercomputing facilities worldwide. Below is a curated collection of leading open-source research platforms, distributed computing engines, web portals, and workflow orchestrators, **sorted in descending order by GitHub Star count**.
 
-1. **[Apache Spark](https://github.com/apache/spark)** [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)  
+1. **[Apache Spark](https://github.com/apache/spark)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)  
    ⚡ Multi-language engine for executing data engineering, data science, and machine learning on single-node machines or vast distributed supercomputing clusters.
 
-2. **[Ray](https://github.com/ray-project/ray)** [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
+2. **[Ray](https://github.com/ray-project/ray)** [![GitHub_Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
    🚀 Unified compute framework for scaling AI and Python workloads, providing distributed runtime primitives, Ray Train, Ray Data, and Ray Serve.
 
-3. **[Polars](https://github.com/pola-rs/polars)** [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)  
+3. **[Polars](https://github.com/pola-rs/polars)** [![GitHub_Stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)  
    ⚡ Blazingly fast multi-threaded DataFrame library written in Rust, utilizing Apache Arrow memory specification to deliver high-throughput tabular analytics on research compute nodes.
 
-4. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+4. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
    🧪 Open-source platform for managing the end-to-end machine learning lifecycle, including experiment tracking, model registry, reproducible packaging, and LLM evaluation.
 
-5. **[Marimo](https://github.com/marimo-team/marimo)** [![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers)  
+5. **[Marimo](https://github.com/marimo-team/marimo)** [![GitHub_Stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers)  
    📓 Next-generation reactive Python notebook for reproducible research that stores code as clean, pure Python scripts, guarantees deterministic cell execution, and exports interactive web apps.
 
-6. **[Kubeflow](https://github.com/kubeflow/kubeflow)** [![GitHub stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social&color=white)](https://github.com/kubeflow/kubeflow/stargazers)  
+6. **[Kubeflow](https://github.com/kubeflow/kubeflow)** [![GitHub_Stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social&color=white)](https://github.com/kubeflow/kubeflow/stargazers)  
    ☸️ Cloud-native platform dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable across research data centers.
 
-7. **[JupyterLab](https://github.com/jupyterlab/jupyterlab)** [![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab?style=social&color=white)](https://github.com/jupyterlab/jupyterlab/stargazers)  
+7. **[JupyterLab](https://github.com/jupyterlab/jupyterlab)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab?style=social&color=white)](https://github.com/jupyterlab/jupyterlab/stargazers)  
    💻 The core interactive development environment for Project Jupyter, supporting notebooks, interactive terminals, code consoles, and a rich plugin ecosystem.
 
-8. **[Dask](https://github.com/dask/dask)** [![GitHub stars](https://img.shields.io/github/stars/dask/dask?style=social&color=white)](https://github.com/dask/dask/stargazers)  
+8. **[Dask](https://github.com/dask/dask)** [![GitHub_Stars](https://img.shields.io/github/stars/dask/dask?style=social&color=white)](https://github.com/dask/dask/stargazers)  
    🐍 Flexible library for parallel and distributed computing in Python, providing dynamic task scheduling and big-data arrays/dataframes that scale from laptops to institutional HPC clusters.
 
-9. **[JupyterHub](https://github.com/jupyterhub/jupyterhub)** [![GitHub stars](https://img.shields.io/github/stars/jupyterhub/jupyterhub?style=social&color=white)](https://github.com/jupyterhub/jupyterhub/stargazers)  
+9. **[JupyterHub](https://github.com/jupyterhub/jupyterhub)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyterhub/jupyterhub?style=social&color=white)](https://github.com/jupyterhub/jupyterhub/stargazers)  
    🌐 Multi-user hub that spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server, serving as the core gateway for university research departments.
 
-10. **[ClearML](https://github.com/allegroai/clearml)** [![GitHub stars](https://img.shields.io/github/stars/allegroai/clearml?style=social&color=white)](https://github.com/allegroai/clearml/stargazers)  
+10. **[ClearML](https://github.com/allegroai/clearml)** [![GitHub_Stars](https://img.shields.io/github/stars/allegroai/clearml?style=social&color=white)](https://github.com/allegroai/clearml/stargazers)  
     🔬 Open-source MLOps suite featuring experiment tracking, automated pipeline orchestration, dataset management, and remote execution across bare-metal or cloud GPU pools.
 
-11. **[Apache Zeppelin](https://github.com/apache/zeppelin)** [![GitHub stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers)  
+11. **[Apache Zeppelin](https://github.com/apache/zeppelin)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers)  
     📊 Web-based collaborative notebook platform enabling data-driven interactive analytics with built-in connectors for Apache Spark, SQL, Python, and Scala.
 
-12. **[Panel](https://github.com/holoviz/panel)** [![GitHub stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers)  
+12. **[Panel](https://github.com/holoviz/panel)** [![GitHub_Stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers)  
     📈 Powerful open-source data exploration and dashboarding toolkit that turns research notebooks and data analysis scripts into interactive, publishable web applications.
 
-13. **[RStudio](https://github.com/rstudio/rstudio)** [![GitHub stars](https://img.shields.io/github/stars/rstudio/rstudio?style=social&color=white)](https://github.com/rstudio/rstudio/stargazers)  
+13. **[RStudio](https://github.com/rstudio/rstudio)** [![GitHub_Stars](https://img.shields.io/github/stars/rstudio/rstudio?style=social&color=white)](https://github.com/rstudio/rstudio/stargazers)  
     📉 The premier open-source integrated development environment for R and scientific computing, featuring comprehensive debugging, workspace inspection, and plotting tools.
 
-14. **[Nextflow](https://github.com/nextflow-io/nextflow)** [![GitHub stars](https://img.shields.io/github/stars/nextflow-io/nextflow?style=social&color=white)](https://github.com/nextflow-io/nextflow/stargazers)  
+14. **[Nextflow](https://github.com/nextflow-io/nextflow)** [![GitHub_Stars](https://img.shields.io/github/stars/nextflow-io/nextflow?style=social&color=white)](https://github.com/nextflow-io/nextflow/stargazers)  
     🧬 Data-driven computational workflow framework enabling portable, reproducible pipeline execution across Slurm, AWS Batch, Azure, and Kubernetes in life sciences and genomics.
 
-15. **[Snakemake](https://github.com/snakemake/snakemake)** [![GitHub stars](https://img.shields.io/github/stars/snakemake/snakemake?style=social&color=white)](https://github.com/snakemake/snakemake/stargazers)  
+15. **[Snakemake](https://github.com/snakemake/snakemake)** [![GitHub_Stars](https://img.shields.io/github/stars/snakemake/snakemake?style=social&color=white)](https://github.com/snakemake/snakemake/stargazers)  
     🐍 Pythonic, rule-based workflow management engine designed to create reproducible and scalable data analysis pipelines that seamlessly adapt to local and cluster architectures.
 
-16. **[BinderHub](https://github.com/jupyterhub/binderhub)** [![GitHub stars](https://img.shields.io/github/stars/jupyterhub/binderhub?style=social&color=white)](https://github.com/jupyterhub/binderhub/stargazers)  
+16. **[BinderHub](https://github.com/jupyterhub/binderhub)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyterhub/binderhub?style=social&color=white)](https://github.com/jupyterhub/binderhub/stargazers)  
     📦 Cloud service engine that turns any Git repository into an interactive, reproducible computing environment hosted in Kubernetes pods with zero local installation.
 
-17. **[Galaxy](https://github.com/galaxyproject/galaxy)** [![GitHub stars](https://img.shields.io/github/stars/galaxyproject/galaxy?style=social&color=white)](https://github.com/galaxyproject/galaxy/stargazers)  
+17. **[Galaxy](https://github.com/galaxyproject/galaxy)** [![GitHub_Stars](https://img.shields.io/github/stars/galaxyproject/galaxy?style=social&color=white)](https://github.com/galaxyproject/galaxy/stargazers)  
     🌌 Open, web-based platform for accessible, reproducible, and transparent data-intensive biomedical and computational research with extensive tool wrappers.
 
-18. **[repo2docker](https://github.com/jupyterhub/repo2docker)** [![GitHub stars](https://img.shields.io/github/stars/jupyterhub/repo2docker?style=social&color=white)](https://github.com/jupyterhub/repo2docker/stargazers)  
+18. **[repo2docker](https://github.com/jupyterhub/repo2docker)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyterhub/repo2docker?style=social&color=white)](https://github.com/jupyterhub/repo2docker/stargazers)  
     🐳 Command-line tool that inspects a Git repository and automatically builds a containerized Docker image configured with JupyterLab, RStudio, or custom research environments.
 
-19. **[CoCalc Core](https://github.com/sagemathinc/cocalc)** [![GitHub stars](https://img.shields.io/github/stars/sagemathinc/cocalc?style=social&color=white)](https://github.com/sagemathinc/cocalc/stargazers)  
+19. **[CoCalc Core](https://github.com/sagemathinc/cocalc)** [![GitHub_Stars](https://img.shields.io/github/stars/sagemathinc/cocalc?style=social&color=white)](https://github.com/sagemathinc/cocalc/stargazers)  
     📐 Self-hostable open-source engine powering collaborative computation with real-time synchronized editing, SageMath, LaTeX editor, and course assignment workflows.
 
-20. **[The Littlest JupyterHub](https://github.com/jupyterhub/the-littlest-jupyterhub)** [![GitHub stars](https://img.shields.io/github/stars/jupyterhub/the-littlest-jupyterhub?style=social&color=white)](https://github.com/jupyterhub/the-littlest-jupyterhub/stargazers)  
+20. **[The Littlest JupyterHub](https://github.com/jupyterhub/the-littlest-jupyterhub)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyterhub/the-littlest-jupyterhub?style=social&color=white)](https://github.com/jupyterhub/the-littlest-jupyterhub/stargazers)  
     🎯 Lightweight, simple JupyterHub distribution designed for 1–100 users on a single server or cloud virtual machine, perfect for small research labs and university courses.
 
-21. **[Zero to JupyterHub on Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)** [![GitHub stars](https://img.shields.io/github/stars/jupyterhub/zero-to-jupyterhub-k8s?style=social&color=white)](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/stargazers)  
+21. **[Zero to JupyterHub on Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyterhub/zero-to-jupyterhub-k8s?style=social&color=white)](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/stargazers)  
     ☸️ Helm charts and comprehensive deployment guides for operating scalable, multi-tenant JupyterHub clusters across cloud providers and on-premise Kubernetes setups.
 
-22. **[Open OnDemand](https://github.com/OSC/ondemand)** [![GitHub stars](https://img.shields.io/github/stars/OSC/ondemand?style=social&color=white)](https://github.com/OSC/ondemand/stargazers)  
+22. **[Open OnDemand](https://github.com/OSC/ondemand)** [![GitHub_Stars](https://img.shields.io/github/stars/OSC/ondemand?style=social&color=white)](https://github.com/OSC/ondemand/stargazers)  
     🖥️ NSF-funded, leading open-source web portal (MIT licensed) providing browser-based access to institutional HPC clusters — file management, Slurm job submission, remote desktop, and interactive Jupyter/RStudio/VS Code sessions without client software installation.
 
 ---
@@ -160,7 +160,7 @@ Contributions, updates, and additions are welcome! Please follow these guideline
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Add or update an entry** in `README.md` following the existing format.
    - For SaaS products: include official product link, verified pricing tier, and specific free tier / trial limits.
-   - For Open-Source repos: provide repository link and verify that star badges follow the `style=social&color=white` pattern.
+   - For Open-Source repos: provide repository link and verify that Stars_Badges follow the `style=social&color=white` pattern.
 3. 🧪 **Check link integrity** and verify accuracy of technical details.
 4. 📬 **Submit a Pull Request** with a concise description of your changes.
 
